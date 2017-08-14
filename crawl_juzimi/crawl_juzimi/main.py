@@ -12,3 +12,4 @@ sys.setdefaultencoding('utf8')
 from scrapy import cmdline
 # cmdline.execute("scrapy crawl livetext ".split())
 cmdline.execute("scrapy crawl juzimi_spider ".split())
+
