@@ -1,0 +1,626 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="zh-hans" lang="zh-hans" dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>搜索 句子迷</title>
+<meta name="keywords" content="搜索" />
+<meta name="description" content="搜索" />
+<meta name="mobile-agent" content="format=html5;url=http://m.juzimi.com/search/node/自由 type:sentence">
+<meta name="mobile-agent" content="format=wml;url=http://m.juzimi.com/search/node/自由 type:sentence">
+<meta name="mobile-agent" content="format=xhtml;url=http://m.juzimi.com/search/node/自由 type:sentence">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/sites/all/themes/juzimi/favicon.ico" type="image/x-icon" />
+<link rel="search" type="application/opensearchdescription+xml" title="句子迷：佳句搜索" href="/opensearch.xml">
+<link href="/sites/all/themes/juzimi/logo_apple.png" rel="apple-touch-icon" />
+<link rel='Bookmark' href='/favicon.ico' type='image/x-icon'>
+<link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.juzimi.com/search/node/自由 type:sentence" />
+<link rel="alternate" media="handheld" href="http://m.juzimi.com/search/node/自由 type:sentence" /> 
+
+<link type="text/css" rel="stylesheet" media="all" href="http://static.juzimi.com/juzimi/juzimi.css?version=372" />
+
+<script type="text/javascript" src="http://static.juzimi.com/juzimi/js/jquery.min.js"></script><script type="text/javascript" src="http://static.juzimi.com/juzimi/js/juzimi.js?version=372"></script>
+<script type="text/javascript" src="http://static.juzimi.com/juzimi/js/zh-hans.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Juzimijs.settings, { "basePath": "/", "facebook_status": { "autofocus": false, "noautoclear": false, "maxlength": "140", "hideLength": "0", "refreshLink": false }, "CToolsModal": { "loadingText": "正在加载...", "closeText": "", "closeImage": "\x3cimg src=\"/sites/all/themes/juzimi/images/x.png\" alt=\"关闭\" title=\"关闭\" width=\"22\" height=\"25\" /\x3e", "throbber": "\x3cimg src=\"/sites/all/modules/ctools/images/throbber.gif\" alt=\"正在加载...\" title=\"正在加载\" width=\"32\" height=\"32\" /\x3e" }, "modal-comment-login-resize": { "modalSize": { "type": "fixed", "width": 467, "height": 341 } }, "user_relationships_ui": { "loadingimage": "/sites/all/modules/user_relationships/user_relationships_ui/images/loadingAnimation.gif", "savingimage": "/sites/all/modules/user_relationships/user_relationships_ui/images/savingimage.gif", "position": { "position": "absolute", "left": "0.5", "top": "0.4" } }, "views_javascript_random": [ "0" ], "heartbeat_language": "zh-hans", "custom_search": { "form_target": "_self", "solr": 0 } });
+//--><!]]>
+</script>
+<!--[if IE 6]>
+<script type="text/javascript">
+document.execCommand("BackgroundImageCache", false, true);
+</script>
+<![endif]-->
+
+<script>
+var _hmt = _hmt || [];
+_hmt.push(["_setCustomVar", 1, "login", 0, 1]); 
+_hmt.push(["_setCustomVar", 1, "login", "PC-0", 1]); 
+_hmt.push(["_setCustomVar", 2, "version", "PC", 1]); 
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?0684e5255bde597704c827d5819167ba";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</head>
+
+<body class="not-front not-logged-in page-search no-sidebars  xqrolesanonymous ">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-48871735-1', 'juzimi.com');
+ga('send', 'pageview', '/search_results.php?xqsearch=自由&xqcate=sentence'); ga('set', 'dimension1', 0);
+</script>
+
+
+
+<div id="block-block-19" class="block-block ">
+  <div class="block-inner">
+  
+  				        
+        <div class="content"><div class="contentin"> </div></div>
+  </div>
+</div>
+<div id="wrapper" class="bc ">
+<div id="header" >
+  <div id="header-top" class="clear-block">
+    <a id="site-name" class="clear-block" href="/" title="回到首页 | 句子迷 | 您的句子摘抄本" rel="home">句子</a>
+    <div id="headermobile"><a id="headermobilelink" href="/app" title="句子迷客户端 | 手机版">手机版</a></div>
+    <div id="block-block-8" class="block-block ">
+  <div class="block-inner">
+  
+  				        
+        <div class="content"><div class="contentin"><span class='welcometexttop'> 欢迎你 </span><a href="/user/login?destination=search/node/自由 type:sentence" class="firstlogin" title="使用本站的帐号登录">登 录</a> | <a href="/user/register" class="firstregist" title="快速注册一个句子迷的帐号，只需10秒">快速注册</a> | <a title="发布您喜欢的句子" href="/user/login?destination=/addsentence">发布句子</a> | <a href="/weibo/redirect?token=login"  class="firstsinaregist" title="使用新浪微博帐号登录">微博登录</a> | <a href="/qq/login"  class="firstqqregist" title="使用QQ帐号登录">QQ登录</a></div></div>
+  </div>
+</div>
+    	    <script type="text/javascript">
+    if(COOKIE.has('juzimiuser')){ $(".welcometexttop").text(decodeURIComponent(COOKIE.get('juzimiuser')) + '！欢迎你 '); }
+    </script>
+        
+    <div id="search-box"> <form action="/search/node/%E8%87%AA%E7%94%B1%20type:sentence"  accept-charset="UTF-8" method="post" id="search-theme-form" class="search-form">
+<div><div id="search" class="container-inline">
+  <div class="form-item" id="edit-search-theme-form-1-wrapper">
+ <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-1" size="15" value="搜索美句佳句、经典语录、名人名言" title="请输入您想搜索的关键词。" x-webkit-speech="" class="form-text form-xqautocomplete  custom-search-default-value custom-search-box" />
+</div>
+<input class="xqautocomplete" type="hidden" id="edit-search-theme-form-1-xqautocomplete" value="http://www.juzimi.com/content_taxonomy/autocomplete/search" disabled="disabled" /><fieldset class="custom_search-popup"></fieldset>
+<div class="custom-search-selector custom-search-types"><div class="form-radios"><div class="form-item" id="edit-custom-search-types-c-sentence-wrapper">
+ <label class="option" for="edit-custom-search-types-c-sentence"><input type="radio" id="edit-custom-search-types-c-sentence" name="custom_search_types" value="c-sentence"   class="form-radio" /> 句子</label>
+</div>
+<div class="form-item" id="edit-custom-search-types-c-album-wrapper">
+ <label class="option" for="edit-custom-search-types-c-album"><input type="radio" id="edit-custom-search-types-c-album" name="custom_search_types" value="c-album"   class="form-radio" /> 句集</label>
+</div>
+<div class="form-item" id="edit-custom-search-types-o-user-wrapper">
+ <label class="option" for="edit-custom-search-types-o-user"><input type="radio" id="edit-custom-search-types-o-user" name="custom_search_types" value="o-user"   class="form-radio" /> 用户</label>
+</div>
+</div></div><input type="submit" name="op" id="edit-submit" value="搜索"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-8a72be4755a1a3e8c58bdba6d02e9bcb" value="form-8a72be4755a1a3e8c58bdba6d02e9bcb"  />
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
+<input type="hidden" name="default_text" id="edit-default-text" value="搜索美句佳句、经典语录、名人名言"  class="default-text" />
+</div>
+
+</div></form>
+ </div>
+	<div id="block-block-18" class="block-block ">
+  <div class="block-inner">
+  
+  				        
+        <div class="content"><div class="contentin">   <div id="m_tagsItem">
+   <div id="tagClose">x</div>
+   <p class="hotsearchslo">搜索您感兴趣的</p>
+   <p class="hotsearch"><span>热门搜索：</span><a href="/writer/几米" title="几米">几米</a><a href="/tags/伤感" title="伤感">伤感</a><a href="/writer/张爱玲" title="张爱玲">张爱玲</a><a href="/writer/601" title="张小娴">张小娴</a><a href="/writer/郭敬明" title="郭敬">郭敬明</a><a href="/tags/唯美" title="唯美">唯美</a><a href="/tags/爱情" title="爱情">爱情</a></p>
+   <p class="hotsearchtags"><span>热门标签：</span><a href="/for/QQ个性签名" title="QQ个性签名">QQ个性签名</a><a href="/tags/伤感" title="伤感的句子">伤感的句子</a><a href="/tags/唯美" title="唯美的句子">唯美的句子</a><a href="/tags/优美" title="优美的语句">优美的语句</a><a href="/jingdianyulu" title="经典语录">经典语录</a><a href="/tags/英语名言" title="英语名言">英语名言</a><a href="/tags/爱情" title="爱情语录">爱情语录</a><a href="/tags/诗词" title="诗词名句">诗词名句</a><a href="/writers" title="名人名言">名人名言</a><a href="/allarticle/jingdiantaici" title="经典台词">经典台词</a><a href="/allarticle/zhaichao" title="小说书摘">小说书摘</a><a href="/tags/歌词" title="歌词">歌词</a><a href="/tags/心语" title="心语">心语</a><a href="/tags/励志" title="励志">励志</a></p>
+   </div></div></div>
+  </div>
+</div>
+<div id="block-block-15" class="block-block ">
+  <div class="block-inner">
+  
+  				        
+        <div class="content"><div class="contentin"><p><a href="/recommend" title="推荐心语" class="top3link">推荐</a>&nbsp; | &nbsp;<a href="/new" title="最新发布" class="top3link">最新</a>&nbsp; | &nbsp;<a href="/todayhot" title="今日热门" class="top3link">热门</a>&nbsp; | &nbsp;<a href="Javascript:void(0)" onclick="addfavorite()"  title="把句子迷加入您的收藏夹" class="topaddfav">收藏本站</a></p>
+</div></div>
+  </div>
+</div>
+  </div>
+  <div id="navbar">
+    <ul>
+      <li class="navitem01 " title="回到首页"><a href="/">首页</a></li>
+      <li class="navitem02"><a href="/ju/9654" title="与千万个佳句随机相遇" onclick="_hmt.push(['_trackEvent', 'ouyujiaju', 'click', 'ouyu9654']);" id="xqbdtrackouyu" >偶遇佳句</a></li>
+      <li class="navitem06 "><div class="xqrvmenu"><div class="xqmenuclick_area"><a class="v_menu" href="/writers" hidefocus="true" title="名人名言，经典语录"><span class="xqrrrel">名人名句</span></a><span class="point_out">▼</span><div class="vmenulist">
+      <a href="/writers">名人名言</a>
+      <a href="/jingdianyulu">经典语录</a>
+      <a href="/allwriters" class="vmenutopline">热门名人</a>
+      <a href="/books" class="vmenutopline">书籍名句</a>
+      <a href="/allarticle/jingdiantaici">电影台词</a>
+      <a href="/allarticle/zhaichao">小说摘抄</a>
+      <a href="/allarticle/sanwen">散文美句</a>
+      <a href="/allarticle/dongmantaici">动漫语录</a>
+      <a href="/lianxujutaici">连续剧台词</a>
+     </div></div></div></li>
+      <li class="navitem07 "><div class="xqrvmenu"><div class="xqmenuclick_area"><a href="/original/week" title="本周优秀原创句子"><span class="xqrrrel">原创句子</span></a><span class="point_out">▼</span><div class="vmenulist">
+      <a href="/original/week">热门原创句子</a>
+      <a href="/original/ju">最新原创句子</a>
+      <a href="/original/recommend">推荐原创句子</a></div></div></div></li>
+      <li class="navitem04 "><div class="xqrvmenu"><div class="xqmenuclick_area"><a class="v_menu" href="/albums" hidefocus="true" title="各种佳句美句的分类合集"><span class="xqrrrel">精选句集</span></a><span class="point_out">▼</span><div class="vmenulist">
+      <a href="/albums">精选句集</a>
+      <a href="/newalbums">最新句集</a>
+           </div></div></div></li>
+      <li class="navitem05 "><div class="xqrvmenu"><div class="xqmenuclick_area"><a href="/meitumeiju" title="优美的图片唯美的句子"><span class="xqrrrel">美图美句</span></a><span class="point_out">▼</span><div class="vmenulist">
+      <a href="/meitumeiju">美图美句</a>
+      <a href="/meitumeiju/shouxiemeiju">手写美句</a>
+      <a href="/meitumeiju/jingdianduibai">经典对白</a></div></div></div></li>
+      <li class="navitem03 "><a href="/similaruser" title="寻找和你有共同品味的人">寻找知音</a></li>
+    </ul>
+  </div>
+
+   
+
+
+  </div>
+<div id="container" class="clear-block mxpsearch mxpsearchnode   msearchnode自由 type:sentence ">
+
+
+
+<div id="main">
+    
+  
+  
+
+  
+           
+           
+  <div id="content" class="xpsearch xpsearchnode searchnode自由 type:sentence ">
+  
+  
+  
+  
+  
+   
+ 
+  
+  <div id="contentinside">
+    <a name="licommentbegin" id="licommentbegin"></a>
+    
+    
+     	
+    
+    
+    
+            
+        
+        <div id="content-header"> 
+ <div class='taxtitleba'><div class='taxtitle'><div class='taxtitlein'><h1>搜索句子结果 : </h1></div></div><div class='taxtitlew'><div class='taxtitleinw'><a href='/search/node/自由 type:album'>搜索句集</a></div></div><div class='taxtitlew'><div class='taxtitleinw'><a href='/search/user/自由'>搜索用户</a></div></div></div></div>
+        
+        
+        		 
+        <div class='searchcontent'><div class='searchcontentin'><div class="searpagetoparori"><div class="xqsecondtopsearbloc"><div class="view view-articlelistimagesearch view-id-articlelistimagesearch view-display-id-block_1 view-dom-id-1">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field-nothing">
+                <div class="searcharimgleft"><a href="/article/24356"><img src="//file.juzimi.com/category_pictures/201401/ziyoujingdianyulu24356.jpg" alt="自由经典语录" title="自由经典语录"  width="141" height="200" onerror="this.onerror=&#039;&#039;;this.src=this.src.replace(&#039;file.juzimi.com&#039;, &#039;www.juzimi.com/sites/default/files&#039;)" /></a></div><div class="searchrightinfo"><div class="searchrightinfotop"><a href="/article/24356" title="《自由》">《自由》</a><a href="/user/login?destination=article/24356&me=flar" class="flag-action" rel="nofollow" title="喜欢《自由》">喜欢</a></div>作者：<a href='/writer/24355' title=''>乔纳森·弗兰岑</a><br/><div class='wridesccon'>《自由》讲述了一个美国中产阶级家庭在二十一世纪的第一个十年所经历的梦想与失败。他以悲喜交织的手法，戏剧性地刻画了拥有太多自由带给人的诱惑与负担：原来自由带给我们的，是幸福之外的一切……满怀情感纠结的家庭主妇、坚持当好人的丈夫、精神飘荡不定的摇滚歌手，以及叛逆、迷茫的青春期孩子，一个个鲜活而又现实的人物跃然纸上。 弗兰岑着眼于具体的生活细节，以充满思考和力量的...<br><a href='/article/24356' title='查看《自由》经典名句' class='xqsearpawirdesclink'>查看22个《自由》经典名句</a></div></div>  </div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> </div><div class="xqsearpagerelatwriter">相关名人：<a href="/writer/28870">自由行走</a> <a href="/writer/自由极光">自由极光</a> <a href="/writer/19353">自由鸟</a> </div><div class="xqsearpagerelatarticle">相关作品：<a href="/article/自由在高处">《自由在高处》</a> <a href="/article/24356">《自由》</a> <a href="/article/438534">《自由的夜行》</a> <a href="/article/176283">《论自由》</a> <a href="/article/29341">《我的自由年代》</a> <a href="/article/逃避自由">《逃避自由》</a> <a href="/article/26201">《原谅我一生不羁放纵爱自由》</a> <a href="/article/136437">《灵魂的自由》</a>(徐志摩散文) <a href="/article/210591">《容忍与自由》</a> <a href="/article/灵魂的自由">《灵魂的自由》</a> <a href="/article/25713">《因自由而美丽》</a> <a href="/article/51019">《最初和最终的自由》</a> <a href="/article/324195">《爱自己，一切都是自由的》</a> <a href="/article/337172">《漫漫自由路》</a> <a href="/article/308225">《什么是自由什么是爱》</a> </div><div class="xqsearpagerelattags">相关标签：<a href="/tags/339966">#半兽人的自由</a> <a href="/tags/自由">#自由</a> <a href="/tags/278998">#自由之战</a> <a href="/tags/511219">#自由的孤独</a> <a href="/tags/333544">#自由论</a> <a href="/tags/63555">#自由诗</a> </div></div><div class="xqsearchrecount">为您搜索到以下相关结果的句子 （ 1 - 10 ）： </div><div id="xqsearchkeyword2" style="display:none;">自由</div><div class="xqsearchpageoptionblock"><span class="xqsearchpageoptiontitle">搜索选项：</span><span class="xqsearchpageoptioncon"><span class="xqseaopfocus" title="在整个句子包括作者出处标签搜索关键词">整体搜索</span><a href="/search/node/自由 type:sentence?opt=1" rel="nofollow" title="仅在句子部分搜索关键词">仅搜索句子部分</a><a href="/search/node/自由 type:sentence?opt=2" rel="nofollow" title="仅在作者部分搜索关键词">仅搜索作者部分</a><a href="/search/node/自由 type:sentence?opt=3" rel="nofollow" title="仅在出处部分搜索关键词">仅搜索出处部分</a><a href="/search/node/自由 type:sentence?opt=4" rel="nofollow" title="仅在标签部分搜索关键词">仅搜索标签部分</a></span></div><div class="xqsearchpageoptionblock"><span class="xqsearchpagesorttitle">句子长度：</span><span class="xqsearchpagesortcon"><span class="xqseaopfocus">所有长度</span><a href="/search/node/自由 type:sentence?len=1" rel="nofollow">短句子</a><a href="/search/node/自由 type:sentence?len=2" rel="nofollow">长句子</a><a href="/search/node/自由 type:sentence?len=3" rel="nofollow">超长句</a></span></div><div class="view view-jusearch view-id-jusearch view-display-id-block_1 xalllist view-dom-id-2">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field-phpcode">
+                <div class="views-field-phpcode-1"><a href="/ju/697997" title="查看本句" class="xlistju">《自由》<br/> <br/>甲喜欢乙<br/>乙喜欢丙<br/>丙喜欢路人<br/>路人喜欢风景<br/>风景喜欢花<br/>花喜欢蝶<br/>蝶喜欢飞</a></div><div class="xqjulistwafo">——<a href="/writer/48649" rel="tag" title="原作者：青慕" class="views-field-field-oriwriter-value">青慕</a><span class="views-field-field-oriarticle-value">《<a href="/article/24356" rel="tag" title="出自《自由》" class="active">自由</a>》</span></div><div class="views-field-ops"><a href="/user/login?destination=ju/697997&me=flag" class="flag-action" rel="nofollow" title="喜欢本句">喜欢(340)</a></div><div class="views-field-field-addtoalbum-value"><div class="alllistaddtoalbum"><a href="/user/login?destination=ju/697997&me=addal" class="alllistatalink" title="把这个句子加入你的句集" rel="nofollow">加入句集</a></div></div><div class="views-field-comment-count"><div class="node-nid">697997</div><div class="user-uid">0</div><a href="/comment/reply/697997#licommentbegin" class="comment-link" title="查看评论">评论(1)</a></div><div class="views-field-name"><div class="views-field-xqname"><a title="发布人：青慕" href="/u/68069" class="xqusernpop" juuid="68069">青慕</a></div></div><div class="views-field-field-sns-value"><a class="xqrlistshare_weixin" href="#alllistwx697997" title="分享到微信" rel="nofollow">分享到微信</a><div class="alllistawx" id="alllistwx697997"><div class="xqwxjccontent">加载中。。。</div></div><div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare" data="{'text':'《自由》   甲喜欢乙 乙喜欢丙 丙喜欢路人 路人喜欢风景 风景喜欢花 花喜欢蝶 蝶喜欢飞 ——青慕 《自由》','desc':'《自由》   甲喜欢乙 乙喜欢丙 丙喜欢路人 路人喜欢风景 风景喜欢花 花喜欢蝶 蝶喜欢飞 ——青慕 《自由》','url':'http://www.juzimi.com/ju/697997','pic':'http://file.juzimi.com/weibopic/jxzeml.jpg'}"><a class="bds_tsina"></a><a class="bds_qzone"></a><span class="bds_more"></span><a class="bds_douban"></a><a class="shareCount"></a></div></div>  </div>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field-phpcode">
+                <div class="views-field-phpcode-1"><a href="/ju/289236" title="查看本句" class="xlistju">“自由带给我们的，<br/>原来是幸福之外的一切……”</a></div><div class="xqjulistwafo">——<a href="/writer/24355" rel="tag" title="原作者：乔纳森·弗兰岑" class="views-field-field-oriwriter-value">乔纳森·弗兰岑</a><span class="views-field-field-oriarticle-value">《<a href="/article/24356" rel="tag" title="出自《自由》" class="active">自由</a>》</span></div><div class="views-field-ops"><a href="/user/login?destination=ju/289236&me=flag" class="flag-action" rel="nofollow" title="喜欢本句">喜欢(125)</a></div><div class="views-field-field-addtoalbum-value"><div class="alllistaddtoalbum"><a href="/user/login?destination=ju/289236&me=addal" class="alllistatalink" title="把这个句子加入你的句集" rel="nofollow">加入句集</a></div></div><div class="views-field-comment-count"><div class="node-nid">289236</div><div class="user-uid">0</div><a href="/comment/reply/289236#licommentbegin" class="comment-link" title="查看评论">评论(1)</a></div><div class="views-field-name"><div class="views-field-xqname"><a title="发布人：Fomney" href="/u/45285" class="xqusernpop" juuid="45285">Fomney</a></div></div><div class="views-field-field-sns-value"><a class="xqrlistshare_weixin" href="#alllistwx289236" title="分享到微信" rel="nofollow">分享到微信</a><div class="alllistawx" id="alllistwx289236"><div class="xqwxjccontent">加载中。。。</div></div><div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare" data="{'text':'“自由带给我们的， 原来是幸福之外的一切……” ——乔纳森·弗兰岑 《自由》','desc':'“自由带给我们的， 原来是幸福之外的一切……” ——乔纳森·弗兰岑 《自由》','url':'http://www.juzimi.com/ju/289236','pic':'http://file.juzimi.com/weibopic/jizlmo.jpg'}"><a class="bds_tsina"></a><a class="bds_qzone"></a><span class="bds_more"></span><a class="bds_douban"></a><a class="shareCount"></a></div></div>  </div>
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field-phpcode">
+                <div class="views-field-phpcode-1"><a href="/ju/289226" title="查看本句" class="xlistju">容易被无边无际的自由梦俘获的人，同样容易被——倘若这个梦未能实现——厌世和愤怒的情绪所控制。</a></div><div class="xqjulistwafo">——<a href="/writer/24355" rel="tag" title="原作者：乔纳森·弗兰岑" class="views-field-field-oriwriter-value">乔纳森·弗兰岑</a><span class="views-field-field-oriarticle-value">《<a href="/article/24356" rel="tag" title="出自《自由》" class="active">自由</a>》</span></div><div class="views-field-ops"><a href="/user/login?destination=ju/289226&me=flag" class="flag-action" rel="nofollow" title="喜欢本句">喜欢(106)</a></div><div class="views-field-field-addtoalbum-value"><div class="alllistaddtoalbum"><a href="/user/login?destination=ju/289226&me=addal" class="alllistatalink" title="把这个句子加入你的句集" rel="nofollow">加入句集</a></div></div><div class="views-field-comment-count"><div class="node-nid">289226</div><div class="user-uid">0</div><a href="/comment/reply/289226" class="comment-link">评论</a></div><div class="views-field-name"><div class="views-field-xqname"><a title="发布人：Fomney" href="/u/45285" class="xqusernpop" juuid="45285">Fomney</a></div></div><div class="views-field-field-sns-value"><a class="xqrlistshare_weixin" href="#alllistwx289226" title="分享到微信" rel="nofollow">分享到微信</a><div class="alllistawx" id="alllistwx289226"><div class="xqwxjccontent">加载中。。。</div></div><div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare" data="{'text':'容易被无边无际的自由梦俘获的人，同样容易被——倘若这个梦未能实现——厌世和愤怒的情绪所控制。 ——乔纳森·弗兰岑 《自由》','desc':'容易被无边无际的自由梦俘获的人，同样容易被——倘若这个梦未能实现——厌世和愤怒的情绪所控制。 ——乔纳森·弗兰岑 《自由》','url':'http://www.juzimi.com/ju/289226','pic':'http://file.juzimi.com/weibopic/jizdmp.jpg'}"><a class="bds_tsina"></a><a class="bds_qzone"></a><span class="bds_more"></span><a class="bds_douban"></a><a class="shareCount"></a></div></div>  </div>
+  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field-phpcode">
+                <div class="views-field-phpcode-1"><a href="/ju/100740" title="查看本句" class="xlistju">我曾经7次鄙视自己的灵魂：它本可以进取却故作谦卑；它在空虚时用爱欲填充；在困难和容易之间选择了容易；它犯了错，却借由别人也会犯错来宽慰自己；它自由软弱却把他认为生命的坚韧；它鄙夷一张丑恶的嘴脸，却不知那正是自己面具中的一副，他侧身于生活的污泥，虽不甘心，却又畏首畏尾。</a></div><div class="xqjulistwafo">——<a href="/writer/纪伯伦" rel="tag" title="原作者：纪伯伦" class="views-field-field-oriwriter-value">纪伯伦</a><span class="views-field-field-oriarticle-value">《<a href="/article/我曾经七次鄙视自己的灵魂" rel="tag" title="出自《我曾经七次鄙视自己的灵魂》" class="active">我曾经七次鄙视自己的灵魂</a>》</span></div><div class="views-field-ops"><a href="/user/login?destination=ju/100740&me=flag" class="flag-action" rel="nofollow" title="喜欢本句">喜欢(865)</a></div><div class="views-field-field-addtoalbum-value"><div class="alllistaddtoalbum"><a href="/user/login?destination=ju/100740&me=addal" class="alllistatalink" title="把这个句子加入你的句集" rel="nofollow">加入句集</a></div></div><div class="views-field-comment-count"><div class="node-nid">100740</div><div class="user-uid">0</div><a href="/comment/reply/100740#licommentbegin" class="comment-link" title="查看全部评论">评论(7)</a></div><div class="views-field-name"><div class="views-field-xqname"><a title="发布人：念兹在兹" href="/u/6293" class="xqusernpop" juuid="6293">念兹在兹</a></div></div><div class="views-field-field-sns-value"><a class="xqrlistshare_weixin" href="#alllistwx100740" title="分享到微信" rel="nofollow">分享到微信</a><div class="alllistawx" id="alllistwx100740"><div class="xqwxjccontent">加载中。。。</div></div><div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare" data="{'text':'我曾经7次鄙视自己的灵魂：它本可以进取却故作谦卑；它在空虚时用爱欲填充；在困难和容易之间选择了容易；它犯了错，却借由别人也会犯错来宽慰自己；它自由软弱却把他认为生命的坚韧；它鄙夷一张丑恶的嘴脸，却不知那正是自己面具中的一副，他侧身于生活的污泥，虽不甘心，却又畏首畏尾。 ——纪伯伦 《我曾经七次鄙视自己的灵魂》','desc':'我曾经7次鄙视自己的灵魂：它本可以进取却故作谦卑；它在空虚时用爱欲填充；在困难和容易之间选择了容易；它犯了错，却借由别人也会犯错来宽慰自己；它自由软弱却把他认为生命的坚韧；它鄙夷一张丑恶的嘴脸，却不知那正是自己面具中的一副，他侧身于生活的污泥，虽不甘心，却又畏首畏尾。 ——纪伯伦 《我曾经七次鄙视自己的灵魂》','url':'http://www.juzimi.com/ju/100740','pic':'http://file.juzimi.com/weibopic/jizdmx.jpg'}"><a class="bds_tsina"></a><a class="bds_qzone"></a><span class="bds_more"></span><a class="bds_douban"></a><a class="shareCount"></a></div></div>  </div>
+  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field-phpcode">
+                <div class="views-field-phpcode-1"><a href="/ju/14283" title="查看本句" class="xlistju">第一次，当它本可进取时，却故作谦卑； <br/>第二次，当它在空虚时，用爱欲来填充； <br/>第三次，在困难和容易之间，它选择了容易； <br/>第四次，它犯了错，却借由别人也会犯错来宽慰自己； <br/>第五次，它自由软弱，却把它认为是生命的坚韧； <br/>第六次，当它鄙夷一张丑恶的嘴脸时，却不知那正是自己面具中的一副； <br/>第七次，它侧身于生活的污泥中，虽不甘心，却又畏首畏尾。</a></div><div class="xqjulistwafo">——<a href="/writer/纪伯伦" rel="tag" title="原作者：卡里·纪伯伦" class="views-field-field-oriwriter-value">卡里·纪伯伦</a><span class="views-field-field-oriarticle-value">《<a href="/article/我曾经七次鄙视自己的灵魂" rel="tag" title="出自《我曾经七次鄙视自己的灵魂》" class="active">我曾经七次鄙视自己的灵魂</a>》</span></div><div class="views-field-ops"><a href="/user/login?destination=ju/14283&me=flag" class="flag-action" rel="nofollow" title="喜欢本句">喜欢(1795)</a></div><div class="views-field-field-addtoalbum-value"><div class="alllistaddtoalbum"><a href="/user/login?destination=ju/14283&me=addal" class="alllistatalink" title="把这个句子加入你的句集" rel="nofollow">加入句集</a></div></div><div class="views-field-comment-count"><div class="node-nid">14283</div><div class="user-uid">0</div><a href="/comment/reply/14283#licommentbegin" class="comment-link" title="查看全部评论">评论(22)</a></div><div class="views-field-name"><div class="views-field-xqname"><a title="发布人：赤心。" href="/u/1413" class="xqusernpop" juuid="1413">赤心。</a></div></div><div class="views-field-field-sns-value"><a class="xqrlistshare_weixin" href="#alllistwx14283" title="分享到微信" rel="nofollow">分享到微信</a><div class="alllistawx" id="alllistwx14283"><div class="xqwxjccontent">加载中。。。</div></div><div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare" data="{'text':'第一次，当它本可进取时，却故作谦卑；  第二次，当它在空虚时，用爱欲来填充；  第三次，在困难和容易之间，它选择了容易；  第四次，它犯了错，却借由别人也会犯错来宽慰自己；  第五次，它自由软弱，却把它认为是生命的坚韧；  第六次，当它鄙夷一张丑恶的嘴脸时，却不知那正是自己面具中的一副；  第七次，它侧身于生活的污泥中，虽不甘心，却又畏首畏尾。 ——卡里·纪伯伦 《我曾经七次鄙视自己的灵魂》','desc':'第一次，当它本可进取时，却故作谦卑；  第二次，当它在空虚时，用爱欲来填充；  第三次，在困难和容易之间，它选择了容易；  第四次，它犯了错，却借由别人也会犯错来宽慰自己；  第五次，它自由软弱，却把它认为是生命的坚韧；  第六次，当它鄙夷一张丑恶的嘴脸时，却不知那正是自己面具中的一副；  第七次，它侧身于生活的污泥中，虽不甘心，却又畏首畏尾。 ——卡里·纪伯伦 《我曾经七次鄙视自己的灵魂》','url':'http://www.juzimi.com/ju/14283','pic':'http://file.juzimi.com/weibopic/jizlmu.jpg'}"><a class="bds_tsina"></a><a class="bds_qzone"></a><span class="bds_more"></span><a class="bds_douban"></a><a class="shareCount"></a></div></div>  </div>
+  </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+  <div class="views-field-phpcode">
+                <div class="views-field-phpcode-1"><a href="/ju/33619" title="查看本句" class="xlistju">做学生的时候，身是不自由的，但心却很自由，有多远梦多远。而今，身是自由的，但心已经无法自由。有多少梦，就有多远。</a></div><div class="xqjulistwafo">——<a href="/writer/七堇年" rel="tag" title="原作者：七堇年" class="views-field-field-oriwriter-value">七堇年</a></div><div class="views-field-ops"><a href="/user/login?destination=ju/33619&me=flag" class="flag-action" rel="nofollow" title="喜欢本句">喜欢(1070)</a></div><div class="views-field-field-addtoalbum-value"><div class="alllistaddtoalbum"><a href="/user/login?destination=ju/33619&me=addal" class="alllistatalink" title="把这个句子加入你的句集" rel="nofollow">加入句集</a></div></div><div class="views-field-comment-count"><div class="node-nid">33619</div><div class="user-uid">0</div><a href="/comment/reply/33619#licommentbegin" class="comment-link" title="查看全部评论">评论(4)</a></div><div class="views-field-name"><div class="views-field-xqname"><a title="发布人：阿九" href="/u/1210" class="xqusernpop" juuid="1210">阿九</a></div></div><div class="views-field-field-sns-value"><a class="xqrlistshare_weixin" href="#alllistwx33619" title="分享到微信" rel="nofollow">分享到微信</a><div class="alllistawx" id="alllistwx33619"><div class="xqwxjccontent">加载中。。。</div></div><div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare" data="{'text':'做学生的时候，身是不自由的，但心却很自由，有多远梦多远。而今，身是自由的，但心已经无法自由。有多少梦，就有多远。 ——@七堇年','desc':'做学生的时候，身是不自由的，但心却很自由，有多远梦多远。而今，身是自由的，但心已经无法自由。有多少梦，就有多远。 ——七堇年','url':'http://www.juzimi.com/ju/33619','pic':'http://file.juzimi.com/weibopic/jpzxmp.jpg'}"><a class="bds_tsina"></a><a class="bds_qzone"></a><span class="bds_more"></span><a class="bds_douban"></a><a class="shareCount"></a></div></div>  </div>
+  </div>
+  <div class="views-row views-row-7 views-row-odd">
+      
+  <div class="views-field-phpcode">
+                <div class="views-field-phpcode-1"><a href="/ju/75631" title="查看本句" class="xlistju">我要有能做我自己的自由，<br/>和敢做我自己的胆量。</a></div><div class="xqjulistwafo">——<a href="/writer/林语堂" rel="tag" title="原作者：林语堂" class="views-field-field-oriwriter-value">林语堂</a><span class="views-field-field-oriarticle-value">《<a href="/article/我的愿望" rel="tag" title="出自《我的愿望》" class="active">我的愿望</a>》</span></div><div class="views-field-ops"><a href="/user/login?destination=ju/75631&me=flag" class="flag-action" rel="nofollow" title="喜欢本句">喜欢(1379)</a></div><div class="views-field-field-addtoalbum-value"><div class="alllistaddtoalbum"><a href="/user/login?destination=ju/75631&me=addal" class="alllistatalink" title="把这个句子加入你的句集" rel="nofollow">加入句集</a></div></div><div class="views-field-comment-count"><div class="node-nid">75631</div><div class="user-uid">0</div><a href="/comment/reply/75631#licommentbegin" class="comment-link" title="查看全部评论">评论(6)</a></div><div class="views-field-name"><div class="views-field-xqname"><a title="发布人：小坏蛋一只" href="/u/3192" class="xqusernpop" juuid="3192">小坏蛋一只</a></div></div><div class="views-field-field-sns-value"><a class="xqrlistshare_weixin" href="#alllistwx75631" title="分享到微信" rel="nofollow">分享到微信</a><div class="alllistawx" id="alllistwx75631"><div class="xqwxjccontent">加载中。。。</div></div><div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare" data="{'text':'我要有能做我自己的自由， 和敢做我自己的胆量。 ——林语堂 《我的愿望》','desc':'我要有能做我自己的自由， 和敢做我自己的胆量。 ——林语堂 《我的愿望》','url':'http://www.juzimi.com/ju/75631','pic':'http://file.juzimi.com/weibopic/juzemr.jpg'}"><a class="bds_tsina"></a><a class="bds_qzone"></a><span class="bds_more"></span><a class="bds_douban"></a><a class="shareCount"></a></div></div>  </div>
+  </div>
+  <div class="views-row views-row-8 views-row-even">
+      
+  <div class="views-field-phpcode">
+                <div class="views-field-phpcode-1"><a href="/ju/214334" title="查看本句" class="xlistju">世上本没有自由自在的人，只要一个人有感情，有欲望，他就永远不可能是自由自在的。</a></div><div class="xqjulistwafo">——<a href="/writer/23848" rel="tag" title="原作者：海宴" class="views-field-field-oriwriter-value">海宴</a><span class="views-field-field-oriarticle-value">《<a href="/article/20647" rel="tag" title="出自《琅琊榜》" class="active">琅琊榜</a>》</span></div><div class="views-field-ops"><a href="/user/login?destination=ju/214334&me=flag" class="flag-action" rel="nofollow" title="喜欢本句">喜欢(1705)</a></div><div class="views-field-field-addtoalbum-value"><div class="alllistaddtoalbum"><a href="/user/login?destination=ju/214334&me=addal" class="alllistatalink" title="把这个句子加入你的句集" rel="nofollow">加入句集</a></div></div><div class="views-field-comment-count"><div class="node-nid">214334</div><div class="user-uid">0</div><a href="/comment/reply/214334#licommentbegin" class="comment-link" title="查看全部评论">评论(7)</a></div><div class="views-field-name"><div class="views-field-xqname"><a title="发布人：筱f柒" href="/u/48586" class="xqusernpop" juuid="48586">筱f柒</a></div></div><div class="views-field-field-sns-value"><a class="xqrlistshare_weixin" href="#alllistwx214334" title="分享到微信" rel="nofollow">分享到微信</a><div class="alllistawx" id="alllistwx214334"><div class="xqwxjccontent">加载中。。。</div></div><div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare" data="{'text':'世上本没有自由自在的人，只要一个人有感情，有欲望，他就永远不可能是自由自在的。 ——@海宴 《琅琊榜》','desc':'世上本没有自由自在的人，只要一个人有感情，有欲望，他就永远不可能是自由自在的。 ——海宴 《琅琊榜》','url':'http://www.juzimi.com/ju/214334','pic':'http://file.juzimi.com/weibopic/jizumo.jpg'}"><a class="bds_tsina"></a><a class="bds_qzone"></a><span class="bds_more"></span><a class="bds_douban"></a><a class="shareCount"></a></div></div>  </div>
+  </div>
+  <div class="views-row views-row-9 views-row-odd">
+      
+  <div class="views-field-phpcode">
+                <div class="views-field-phpcode-1"><a href="/ju/183807" title="查看本句" class="xlistju">A man can be himself only so long as he is alone; and if he does not love solitude, he will not love freedom; for it is only when he is alone that he is really free.<br/>一个人只有在独处时才能成为自己。谁要是不爱独处，那他就不爱自由，因为一个人只有在独处时才是真正自由的。</a></div><div class="xqjulistwafo">——<a href="/writer/叔本华" rel="tag" title="原作者：叔本华" class="views-field-field-oriwriter-value">叔本华</a></div><div class="views-field-ops"><a href="/user/login?destination=ju/183807&me=flag" class="flag-action" rel="nofollow" title="喜欢本句">喜欢(2738)</a></div><div class="views-field-field-addtoalbum-value"><div class="alllistaddtoalbum"><a href="/user/login?destination=ju/183807&me=addal" class="alllistatalink" title="把这个句子加入你的句集" rel="nofollow">加入句集</a></div></div><div class="views-field-comment-count"><div class="node-nid">183807</div><div class="user-uid">0</div><a href="/comment/reply/183807#licommentbegin" class="comment-link" title="查看全部评论">评论(16)</a></div><div class="views-field-name"><div class="views-field-xqname"><a title="发布人：逍遥未遂" href="/u/10654" class="xqusernpop" juuid="10654">逍遥未遂</a></div></div><div class="views-field-field-sns-value"><a class="xqrlistshare_weixin" href="#alllistwx183807" title="分享到微信" rel="nofollow">分享到微信</a><div class="alllistawx" id="alllistwx183807"><div class="xqwxjccontent">加载中。。。</div></div><div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare" data="{'text':'A man can be himself only so long as he is alone; and if he does not love solitude, he will not love freedom; for it is only when he is alone that he is really free. 一个人只有在独处时才能成为自己。谁要是不爱独处，那他就不爱自由，因为一个人只有在独处时才是真正自由的。 ——叔本华','desc':'A man can be himself only so long as he is alone; and if he does not love solitude, he will not love freedom; for it is only when he is alone that he is really free. 一个人只有在独处时才能成为自己。谁要是不爱独处，那他就不爱自由，因为一个人只有在独处时才是真正自由的。 ——叔本华','url':'http://www.juzimi.com/ju/183807','pic':'http://file.juzimi.com/weibopic/juzxma.jpg'}"><a class="bds_tsina"></a><a class="bds_qzone"></a><span class="bds_more"></span><a class="bds_douban"></a><a class="shareCount"></a></div></div>  </div>
+  </div>
+  <div class="views-row views-row-10 views-row-even views-row-last">
+      
+  <div class="views-field-phpcode">
+                <div class="views-field-phpcode-1"><a href="/ju/1782" title="查看本句" class="xlistju">贪安稳就没有自由，要自由就要历些危险。只有这两条路。 </a></div><div class="xqjulistwafo">——<a href="/writer/鲁迅" rel="tag" title="原作者：鲁迅" class="views-field-field-oriwriter-value">鲁迅</a></div><div class="views-field-ops"><a href="/user/login?destination=ju/1782&me=flag" class="flag-action" rel="nofollow" title="喜欢本句">喜欢(3151)</a></div><div class="views-field-field-addtoalbum-value"><div class="alllistaddtoalbum"><a href="/user/login?destination=ju/1782&me=addal" class="alllistatalink" title="把这个句子加入你的句集" rel="nofollow">加入句集</a></div></div><div class="views-field-comment-count"><div class="node-nid">1782</div><div class="user-uid">0</div><a href="/comment/reply/1782#licommentbegin" class="comment-link" title="查看全部评论">评论(23)</a></div><div class="views-field-name"><div class="views-field-xqname"><a title="发布人：小懒猪" href="/u/120" class="xqusernpop" juuid="120">小懒猪</a></div></div><div class="views-field-field-sns-value"><a class="xqrlistshare_weixin" href="#alllistwx1782" title="分享到微信" rel="nofollow">分享到微信</a><div class="alllistawx" id="alllistwx1782"><div class="xqwxjccontent">加载中。。。</div></div><div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare" data="{'text':'贪安稳就没有自由，要自由就要历些危险。只有这两条路。  ——鲁迅','desc':'贪安稳就没有自由，要自由就要历些危险。只有这两条路。  ——鲁迅','url':'http://www.juzimi.com/ju/1782','pic':'http://file.juzimi.com/weibopic/jpzamx.jpg'}"><a class="bds_tsina"></a><a class="bds_qzone"></a><span class="bds_more"></span><a class="bds_douban"></a><a class="shareCount"></a></div></div>  </div>
+  </div>
+    </div>
+  
+      <div class="item-list"><ul class="pager"><li class="pager-current first">1</li>
+<li class="pager-item"><a href="/search/node/%E8%87%AA%E7%94%B1%20type%3Asentence?page=1" title="到第 2 页" class="active">2</a></li>
+<li class="pager-item"><a href="/search/node/%E8%87%AA%E7%94%B1%20type%3Asentence?page=2" title="到第 3 页" class="active">3</a></li>
+<li class="pager-item"><a href="/search/node/%E8%87%AA%E7%94%B1%20type%3Asentence?page=3" title="到第 4 页" class="active">4</a></li>
+<li class="pager-item"><a href="/search/node/%E8%87%AA%E7%94%B1%20type%3Asentence?page=4" title="到第 5 页" class="active">5</a></li>
+<li class="pager-item"><a href="/search/node/%E8%87%AA%E7%94%B1%20type%3Asentence?page=5" title="到第 6 页" class="active">6</a></li>
+<li class="pager-item"><a href="/search/node/%E8%87%AA%E7%94%B1%20type%3Asentence?page=6" title="到第 7 页" class="active">7</a></li>
+<li class="pager-ellipsis">…</li>
+<li class="pager-last"><a href="/search/node/%E8%87%AA%E7%94%B1%20type%3Asentence?page=14" title="到第 15 页" class="active">15</a></li>
+<li class="pager-next"><a href="/search/node/%E8%87%AA%E7%94%B1%20type%3Asentence?page=1" title="去下一个页面" rel="next" class="active">下一页</a></li>
+<li class="pager-goto last"><span class="xqreplynum"><span class="xqreplynumhidmax">15</span>跳到 <input type="text" class="xqjumpinput" max-page="4"> 页 <button class="xqjumpbtn" value="确定" type="button">确定</button></span></li>
+</ul></div>  
+  
+  
+  
+  
+</div> </div></div>              
+
+        
+        
+        
+      </div>
+    </div>
+          
+    
+        
+          
+    
+    
+    
+      
+      
+                		
+		
+		        
+        
+  </div>
+  
+  
+  
+  
+      </div>
+  
+  
+  
+  
+  <div id="footer"> <div id="block-block-7" class="block-block ">
+  <div class="block-inner">
+  
+  				        
+        <div class="content"><div class="contentin">  <div class="footfirst">
+    <div class="fo_web">
+      <dl>
+        <dt>网站</dt>
+        <dd><a href="/aboutus" title="关于我们">关于我们</a></dd>
+        <dd><a href="/agreement" title="使用协议">使用协议</a></dd>
+        <dd><a href="/links" title="友情链接">友情链接</a></dd>
+        <dd><a href="/help" title="不懂怎么玩的？先了解一下">新手指南</a></dd>
+        <dd><a href="/user/login?destination=messages/new/5?type=feedback" title="有什么好想法，反馈一下" class="fo_guelink">意见反馈</a></dd>
+      </dl>
+    </div>
+    <div class="fo_channel">
+      <dl>
+        <dt>频道</dt>
+        <dd><a href="/writers" title="名人名言">名人名言</a></dd>
+        <dd><a href="/jingdianyulu" title="经典语录">经典语录</a></dd>
+        <dd><a href="/original/week" title="原创句子">原创句子</a></dd>
+        <dd><a href="/albums" title="精选句集">精选句集</a></dd>
+        <dd><a href="/meitumeiju" title="美图美句">美图美句</a></dd>
+        <dd><a href="/similaruser" title="寻找知音">寻找知音</a></dd>
+      </dl>
+    </div>
+    <div class="fo_help">
+      <dl>
+        <dt>客户端 & 手机版</dt>
+        <dd><a href="/app" title="句子迷安卓客户端" class="foandroidico">Android客户端</a></dd>
+        <dd><a href="/app" title="句子迷iPhone客户端" class="foiphoneico">iPhone客户端</a></dd>
+        <dd><a href="http://m.juzimi.com/?mobver=1" title="句子迷手机版">手机版</a></dd>
+      </dl>
+      <dl class="fo_tools">
+        <dt>工具</dt>
+        <dd><a href="/tool" title="快速句子发布工具">发布工具</a></dd>
+        <dd><a href="/browser" title="Chrome浏览器插件">浏览器插件</a></dd>
+      </dl>
+    </div>
+    <div class="fo_logo"><a href="/" title="回到首页" class="footer_logo">句子</a></div>
+    <div class="fo_follow">
+      <dl>
+        <dt>关注我们</dt>
+        <dd><a href="http://weibo.com/juzimi" title="在新浪微博关注我们" target="_blank" class="footfolsina" rel="nofollow">新浪微博</a></dd>
+        <dd><a href="http://www.juzimi.com/feed" title="通过RSS订阅句子迷网" target="_blank" class="footfolrss">RSS订阅</a></dd>
+      </dl>
+      <dl class="fo_tools">
+        <dt>句子长度</dt>
+        <dd><a href="/length/短句子" title="短句子">短句子</a></dd>
+        <dd><a href="/length/长句子" title="长句子">长句子</a></dd>
+        <dd><a href="/length/超长句" title="超长句">超长句</a></dd>
+      </dl>
+    </div>
+    <div class="fo_wx">
+      <dl>
+        <dt>句子迷微信二维码</dt>
+        <dd><a href="/sites/all/themes/juzimi/images/weixin.jpg" target="_blank" title="请扫描句子迷微信二维码">句子迷微信二维码</a></dd>
+      </dl>
+    </div>
+    <div class="fo_for">
+      <dl>
+        <dt>适用于</dt>
+        <dd><a href="/for/微博" title="适用于微博的句子">微博</a></dd>
+        <dd><a href="/for/短信" title="适用于短信的句子">短信</a></dd>
+        <dd><a href="/for/weixin" title="适用于微信的句子">微信</a></dd>
+        <dd><a href="/for/QQ个性签名" title="适用于QQ个性签名的句子">QQ签名</a></dd>
+      </dl>
+    </div>
+  </div>
+  <div class="footsecond">版权所有 © 2017 句子迷 | <a href="/" class="bottomxqholi">美句佳句大全，您的句子摘抄本</a> <a href="http://www.miibeian.gov.cn" target="_blank" rel="nofollow" class="footericp">粤ICP备09162504号-2</a></div></div></div>
+  </div>
+</div>
+        
+       
+  </div>
+</div>
+<div id="user_relationships_popup_form" class="user_relationships_ui_popup_form"></div>
+
+<!--[if IE 6]>
+<script type="text/javascript">
+$(function(){	
+$('.allmessages').center({position:'fixed',top:'42%'});	
+})
+</script>
+<![endif]-->
+
+
+<script language="JavaScript" src="http://static.juzimi.com/juzimi/js/xqscript.js?version=372" type="text/javascript"></script>
+
+
+
+
+
+
+
+
+
+
+<script type='text/javascript' src='//static.juzimi.com/juzimi/js/jquery.boxy.js?version=372'></script>
+
+<script type='text/javascript'>
+$(function() {
+  $('.xqrlistshare_weixin').live("click", function(){
+  var xqwxboxyid = $(this).attr("href").split("#");
+  var xqwxboxyid = '#' + xqwxboxyid[1].replace(xqwxboxyid[0], '');
+  new Boxy(xqwxboxyid, jQuery.extend(this.options, {center: true, draggable: false, closeable:true, title:'扫一下，分享到微信', xqclass:'xqalistwxlayer'}));
+  $(xqwxboxyid + " .xqwxjccontent").load("/fxwx.php?url=ju/" + xqwxboxyid.replace('#alllistwx', ''));
+  return false;
+});
+});   
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+$('.alllistatafl .flag-lists-links .flag-action').livequery("click",function(){ var xqalflagju = $(this).parents(".alllistatafl").attr("id").replace('alllistatafl',''); $('.flag-fav-'+xqalflagju+' .flag-action').click();})
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script language="javascript"> 
+$(function(){
+ $("#edit-search-theme-form-1").selectCity("#m_tagsItem");
+ $("#edit-search-theme-form-1").selectCity(".custom-search-selector");
+});
+</script>
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript"> 
+$(document).ready(function(){
+$("input[type='text'], input[type='password'], textarea").blur(function() {$(this).css({border:"1px solid #CCC"});})  
+$("input[type='text'], input[type='password'], textarea").focus(function() {$(this).css({border:"1px solid #F90"});})
+$("#edit-custom-search-types-c-sentence").attr("checked","checked");  
+if($.browser.mozilla){    
+$("#edit-search-theme-form-1").focus(function() {$("#m_tagsItem").fadeIn(400);}) 
+$("#edit-search-theme-form-1").focus(function() {$(".custom-search-selector").fadeIn(400);})
+}
+$('a,input[type="button"],input[type="submit"]').bind('focus',function(){ if(this.blur){ this.blur();};}); 
+});
+$("#block-views-hotalbum-block_1 ul>li:visible:first").css("border-style","none");
+$(".xqcttogle").live("click", function() { $(this).toggle(function() { $(".xqctlisttitle").css({"display":"block"}); $(".xqtagkli").css({"display":"block"}); },function() {$(".xqctlisttitle").css({"display":"none"}); $(".xqtagkli").css({"display":"none"});}).trigger('click'); });
+</script>
+
+
+
+
+
+
+
+
+<script>$('.xqusernpop').each(function(){$(this).jspop({'ajaxurl':'/user/'+$(this).attr('juuid')+'/ajax','loadingmsg':'请稍等...'});});</script>
+
+
+
+
+
+
+
+
+
+
+
+
+<script src="http://static.juzimi.com/juzimi/js/jquery.textSearch.js?version=372" type="text/javascript"></script>
+<script type="text/javascript">
+$(function(){
+	$(".searpagetoparori").textSearch($("#xqsearchkeyword2").text());   	$(".xalllist .views-field-phpcode-1").textSearch($("#xqsearchkeyword2").text());
+	$(".xalllist .xqjulistwafo").textSearch($("#xqsearchkeyword2").text());
+	$(".xallalbumlist .views-field-phpcode").textSearch($("#xqsearchkeyword2").text());     });
+$("#edit-search-theme-form-1").val("自由");
+$("#edit-search-theme-form-1").css("color","black"); 
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://static.juzimi.com/juzimi/js/xqgototop.js"></script>
+
+
+
+
+<script type="text/javascript">
+ var language = navigator.browserLanguage?navigator.browserLanguage:navigator.language;
+ var zh_langReg_t = /^zh-tw|zh-hk$/i;
+ if(zh_langReg_t.test(language)) { 
+     $("#block-block-15").append('<a href="javascript:;" id="StranLink">- 繁體版 -</a>');
+	 document.write("<script src='http://static.juzimi.com/juzimi/js/xqgbcover.js'><\/script>");
+	 document.write("<script src='http://static.juzimi.com/juzimi/js/xqStranJF.js'><\/script>");
+  }  
+</script> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=52166" ></script>
+<script type="text/javascript" id="bdshell_js"></script>
+<script type="text/javascript">
+//var bds_config = {'snsKey':{'tsina':'1306995548','tqq':'d2c1096b805141969e53ac0d5964796a'},'review':'off'};
+var bds_config = {'snsKey':{'tsina':'1306995548','tqq':'d2c1096b805141969e53ac0d5964796a'}};
+//document.getElementById("bdshell_js").src = "http://share.baidu.com/static/js/shell_v2.js?t=" + new Date().getHours();
+document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date()/3600000);
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+if(!COOKIE.has('visited')){
+	document.write('<script src="http://img.juzimi.com/juzimi/js/first.js" language="JavaScript"><\/script>');
+    COOKIE.set('visited','1',30*24*3600);
+}
+</script>
+
+
+
+
+
+
+
+</body>
+</html>
